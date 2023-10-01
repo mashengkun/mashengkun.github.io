@@ -15,8 +15,8 @@ You can view my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf)
 
 Education
 ======
-- 2021/09 - present, M.S. in School of Computer Science and Technology, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), China.
-- 2017/09 - 2021/06, B.Eng. in Software Engineering, School of Computer Science and Technology, [Xidian University](https://www.xidian.edu.cn/), China.
+- (2021/09 - present) M.S. in Computer Science, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), China.
+- (2017/09 - 2021/06) B.Eng. in Software Engineering, School of Computer Science and Technology, [Xidian University](https://www.xidian.edu.cn/), China.
 
 Honors
 ======
@@ -26,20 +26,18 @@ Honors
 - (2017-2021) School Scholarship (GPA 3.7/4.0)
 
 Working Experience
-------
+======
 - (2023/04 - 2023/10) Research Internship at [WestlakeNLP](https://westlakenlp.netlify.app/), supervised by Prof. Yue Zhang.
 - (2021/03 - 2021/05) Internship of Embedded Software Development Engineer at Consumer BG, [huawei](http://www.huawei.com.cn/).
-------
-
 
 Publications
-------
+======
 - **Making Pre-trained Language Models Better Continual Few-shot Relation Extractor**
 <br />**Shengkun Ma**, Jiale Han, Yi Liang, Bo Cheng.
-<br />COLING 2024, submitted.
+<br />Submitted to COLING2024.
 - **A Rationale-Centric Data Augmentation Method for Cross-Document Event Coreference**
 <br />Bowen Ding\*, Qingkai Min\*, **Shengkun Ma**, Linyi Yang, Yue Zhang.
-<br />AAAI 2024, under review.
+<br />Under review on AAAI 2024.
 - **Generative Prompt Tuning for Relation Classification** 
 <br />Jiale Han, Shuai Zhao, Bo Cheng, **Shengkun Ma** and Wei Lu.
 <br />EMNLP 2022 Findings.
