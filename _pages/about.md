@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 I'm a final-year graduate student in Beijing University of Posts and Telecommunications (BUPT), China, supervised by Prof. Bo Cheng.
+I'm looking for a PhD position in Natural Language Processing (NLP).
+My research intresets in Relation Extraction, Continual Learning and Large Language Models.
+You can view my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf)
 
 A data-driven personal website
 ======
