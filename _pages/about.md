@@ -20,9 +20,10 @@ Education
 
 Honors
 ======
-- (2023) Outstanding Graduate Student
+- (2023) BUPT Outstanding Graduate Student
 - (2022) National Scholarship
-- (2022) Outstanding Graduate Student of State Key Laboratory
+- (2022) Outstanding Graduate of State Key Laboratory of Network and Switching Technology
+- (2021-2023) BUPT First-Class Scholarship
 - (2017-2021) School Scholarship (GPA 3.7/4.0)
 
 Working Experience
