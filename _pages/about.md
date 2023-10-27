@@ -12,7 +12,7 @@ I'm a final-year graduate student in Beijing University of Posts and Telecommuni
 I'm looking for a PhD position in Natural Language Processing (NLP).
 My research interests in Relation Extraction, Continual Learning and Large Language Models.
 You can view my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf).
-My email: mashengkun98@gmail.com
+My email: mashengkun@bupt.edu.cn
 
 Education
 ======
