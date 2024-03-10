@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 I'm a final-year graduate student in Beijing University of Posts and Telecommunications (BUPT), China, supervised by Prof. Bo Cheng.
-I'm looking for a PhD position in Natural Language Processing (NLP).
+I'm looking for a PhD or RA position in Natural Language Processing (NLP).
 My research interests in Relation Extraction, Continual Learning and Large Language Models.
-You can view my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf).
+This is my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf).
+
 My email: mashengkun@bupt.edu.cn
 
 Education
@@ -36,10 +37,10 @@ Publications
 ======
 - **Making Pre-trained Language Models Better Continual Few-shot Relation Extractor**
 <br />**Shengkun Ma**, Jiale Han, Yi Liang, Bo Cheng.
-<br />Submitted to COLING2024.
-- **A Rationale-Centric Data Augmentation Method for Cross-Document Event Coreference**
+<br />Accepted as COLING 2024.
+- **A Rationale-Centric Data AuAcceptedgmentation Method for Cross-Document Event Coreference**
 <br />Bowen Ding\*, Qingkai Min\*, **Shengkun Ma**, Linyi Yang, Yue Zhang.
-<br />Under review on AAAI 2024.
+<br />Accepted as NAACL 2024.
 - **Generative Prompt Tuning for Relation Classification** 
 <br />Jiale Han, Shuai Zhao, Bo Cheng, **Shengkun Ma** and Wei Lu.
 <br />EMNLP 2022 Findings.
