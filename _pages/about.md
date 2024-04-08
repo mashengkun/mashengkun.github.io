@@ -26,7 +26,7 @@ Education
 
 Honor
 ======
-- *2023*, **Excellent Graduate Student** (top 2%), *Beijing University of Posts and Telecommunications*
+- *2023*, **Outstanding Graduate Student** (top 2%), *Beijing University of Posts and Telecommunications*
 - *2022*, **National Scholarship** (top 1%), *Beijing University of Posts and Telecommunications*
 - *2022*, **Outstanding Graduate of State Key Laboratory of Network and Switching Technology**, *Beijing University of Posts and Telecommunications*
 - *2021-2023*, **First-Class Scholarship**, *Beijing University of Posts and Telecommunications*
