@@ -41,13 +41,13 @@ Publications
 ======
 - **Making Pre-trained Language Models Better Continual Few-shot Relation Extractor**
 <br />**Shengkun Ma**, Jiale Han, Yi Liang, Bo Cheng.
-<br />Accepted as *COLING 2024*.  <u>[paper](https://arxiv.org/abs/2402.15713)</u>   <u>[code](https://github.com/mashengkun/CPL)</u> 
+<br />Accepted as *COLING 2024*.  \[[paper](https://arxiv.org/abs/2402.15713)\] \[[code](https://github.com/mashengkun/CPL)\]
 - **A Rationale-Centric Data Augmentation Method for Cross-Document Event Coreference**
 <br />Bowen Ding\*, Qingkai Min\*, **Shengkun Ma**, Linyi Yang, Yue Zhang.
-<br />Accepted as *NAACL 2024*.  <u>[paper](https://arxiv.org/abs/2404.01921)</u>   <u>[code](https://github.com/Danield21/Rationale4CDECR)</u> 
+<br />Accepted as *NAACL 2024*. \[[paper](https://arxiv.org/abs/2404.01921)\] \[[code](https://github.com/Danield21/Rationale4CDECR)\]  
 - **Generative Prompt Tuning for Relation Classification** 
 <br />Jiale Han, Shuai Zhao, Bo Cheng, **Shengkun Ma** and Wei Lu.
-<br />*EMNLP 2022 Findings*.  <u>[paper](https://arxiv.org/abs/2210.12435)</u>   <u>[code](https://github.com/hanjiale/GenPT)</u> 
+<br />*EMNLP 2022 Findings*.   \[[paper](https://arxiv.org/abs/2210.12435)\]  \[[code](https://github.com/hanjiale/GenPT)\]  
 
 <!--
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=bALa26JNgLmkaivAZEk7F5Qk4kVH83z0WAlhEsUq4yM&cl=ffffff&w=a"></script>
