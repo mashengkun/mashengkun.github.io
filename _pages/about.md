@@ -45,4 +45,6 @@ Publications
 <br />Jiale Han, Shuai Zhao, Bo Cheng, **Shengkun Ma** and Wei Lu.
 <br />EMNLP 2022 Findings.
 
+<!--
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=bALa26JNgLmkaivAZEk7F5Qk4kVH83z0WAlhEsUq4yM&cl=ffffff&w=a"></script>
+-->
