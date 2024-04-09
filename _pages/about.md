@@ -39,7 +39,7 @@ Experience
 
 Publications
 ======
-- **Making Pre-trained Language Models Better Continual Few-shot Relation Extractor**
+- **Making Pre-trained Language Models Better Continual Few-shot Relation Extractors**
 <br />**Shengkun Ma**, Jiale Han, Yi Liang and Bo Cheng.
 <br />Accepted as *COLING 2024*.  \[[paper](https://arxiv.org/abs/2402.15713)\] \[[code](https://github.com/mashengkun/CPL)\]
 - **A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution**
