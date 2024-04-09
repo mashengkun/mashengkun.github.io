@@ -42,7 +42,7 @@ Publications
 - **Making Pre-trained Language Models Better Continual Few-shot Relation Extractor**
 <br />**Shengkun Ma**, Jiale Han, Yi Liang and Bo Cheng.
 <br />Accepted as *COLING 2024*.  \[[paper](https://arxiv.org/abs/2402.15713)\] \[[code](https://github.com/mashengkun/CPL)\]
-- **A Rationale-Centric Data Augmentation Method for Cross-Document Event Coreference**
+- **A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution**
 <br />Bowen Ding\*, Qingkai Min\*, **Shengkun Ma**, Linyi Yang and Yue Zhang.
 <br />Accepted as *NAACL 2024*. \[[paper](https://arxiv.org/abs/2404.01921)\] \[[code](https://github.com/Danield21/Rationale4CDECR)\]  
 - **Generative Prompt Tuning for Relation Classification** 
