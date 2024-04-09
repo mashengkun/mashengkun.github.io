@@ -18,6 +18,18 @@ This is my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf).
 **I am actively seeking PhD/RA opportunities for 2024/2025 ^_^**
 
 
+Publications
+======
+- **Making Pre-trained Language Models Better Continual Few-shot Relation Extractors**
+<br />**Shengkun Ma**, Jiale Han, Yi Liang and Bo Cheng.
+<br />Accepted as *COLING 2024*.  \[[paper](https://arxiv.org/abs/2402.15713)\] \[[code](https://github.com/mashengkun/CPL)\]
+- **A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution**
+<br />Bowen Ding\*, Qingkai Min\*, **Shengkun Ma**, Linyi Yang and Yue Zhang.
+<br />Accepted as *NAACL 2024*. \[[paper](https://arxiv.org/abs/2404.01921)\] \[[code](https://github.com/Danield21/Rationale4CDECR)\]  
+- **Generative Prompt Tuning for Relation Classification** 
+<br />Jiale Han, Shuai Zhao, Bo Cheng, **Shengkun Ma** and Wei Lu.
+<br />*EMNLP 2022 Findings*.   \[[paper](https://arxiv.org/abs/2210.12435)\]  \[[code](https://github.com/hanjiale/GenPT)\]  
+
 
 Education
 ======
@@ -37,17 +49,7 @@ Experience
 - *2023/04 - 2023/10*, **Research intern**, Westlake NLP Group, *[Westlake University](https://en.westlake.edu.cn/)*, supervised by Prof. Yue Zhang and Dr. Linyi Yang.
 - *2021/03 - 2021/05*, **Intern**, Consumer BG, *[huawei](http://www.huawei.com.cn/)*, supervised by Mengshu Jia.
 
-Publications
-======
-- **Making Pre-trained Language Models Better Continual Few-shot Relation Extractors**
-<br />**Shengkun Ma**, Jiale Han, Yi Liang and Bo Cheng.
-<br />Accepted as *COLING 2024*.  \[[paper](https://arxiv.org/abs/2402.15713)\] \[[code](https://github.com/mashengkun/CPL)\]
-- **A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution**
-<br />Bowen Ding\*, Qingkai Min\*, **Shengkun Ma**, Linyi Yang and Yue Zhang.
-<br />Accepted as *NAACL 2024*. \[[paper](https://arxiv.org/abs/2404.01921)\] \[[code](https://github.com/Danield21/Rationale4CDECR)\]  
-- **Generative Prompt Tuning for Relation Classification** 
-<br />Jiale Han, Shuai Zhao, Bo Cheng, **Shengkun Ma** and Wei Lu.
-<br />*EMNLP 2022 Findings*.   \[[paper](https://arxiv.org/abs/2210.12435)\]  \[[code](https://github.com/hanjiale/GenPT)\]  
+
 
 <!--
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=bALa26JNgLmkaivAZEk7F5Qk4kVH83z0WAlhEsUq4yM&cl=ffffff&w=a"></script>
