@@ -39,7 +39,7 @@ Education
 Honor
 ======
 - *2023*, **Outstanding Graduate Student** (top 2%), *Beijing University of Posts and Telecommunications*
-- *2022*, **National Scholarship** (top 1%), *Beijing University of Posts and Telecommunications*
+- *2022*, **National Scholarship in China**, *Beijing University of Posts and Telecommunications*
 - *2022*, **Outstanding Graduate of State Key Laboratory of Network and Switching Technology**, *Beijing University of Posts and Telecommunications*
 - *2021-2023*, **First-Class Scholarship**, *Beijing University of Posts and Telecommunications*
 - *2017-2021*, **Second-Class Scholarship** (GPA 3.7/4.0), *Xidian University*
