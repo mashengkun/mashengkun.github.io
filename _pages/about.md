@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm **Shengkun Ma** (马胜坤), a final-year graduate student in *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)*, China, supervised by Prof. Bo Cheng.
+I am **Shengkun Ma** (马胜坤), a final-year graduate student in *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)*, China, supervised by Prof. Bo Cheng.
 Previously, I obtained my Bachelor's degree from the School of Computer Science and Technology at *[Xidian University (XDU)](https://www.xidian.edu.cn/)*.
 
-My research interests include **relation extraction**, **continual learning** and **large language models (LLMs)**.
-Now, I'm focus on **open-domain retrieval** and **reasoning** with LLMs.
+My research interests include **relation extraction**, **prompt learning** and **large language models (LLMs)**.
+Recently, I am focus on **open-domain retrieval** and **reasoning** with LLMs.
 This is my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf).
 
 **I am actively seeking PhD/RA opportunities for 2024/2025 ^_^**
@@ -38,8 +38,8 @@ Education
 
 Honor
 ======
-- *2023*, **Outstanding Graduate Student** (top 2%), *Beijing University of Posts and Telecommunications*
-- *2022*, **National Scholarship in China**, *Beijing University of Posts and Telecommunications*
+- *2023*, **Outstanding Graduate Student** (Top 2%), *Beijing University of Posts and Telecommunications*
+- *2022*, **National Scholarship** (Top 1%), *Beijing University of Posts and Telecommunications*
 - *2022*, **Outstanding Graduate of State Key Laboratory of Network and Switching Technology**, *Beijing University of Posts and Telecommunications*
 - *2021-2023*, **First-Class Scholarship**, *Beijing University of Posts and Telecommunications*
 - *2017-2021*, **Second-Class Scholarship** (GPA 3.7/4.0), *Xidian University*
