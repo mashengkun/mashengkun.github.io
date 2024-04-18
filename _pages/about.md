@@ -36,7 +36,7 @@ Education
 - *2021/09 - present*, **Master's degree**, **School of Computer Science**, *Beijing University of Posts and Telecommunications (BUPT)*, China.
 - *2017/09 - 2021/06*, **Bachelor’s degree**, **School of Computer Science and Technology**, *Xidian University (XDU)*, China.
 
-Honor
+Honors
 ======
 - *2023*, **Outstanding Graduate Student** (Top 2%), *Beijing University of Posts and Telecommunications*
 - *2022*, **National Scholarship** (Top 1%), *Beijing University of Posts and Telecommunications*
@@ -44,10 +44,10 @@ Honor
 - *2021-2023*, **First-Class Scholarship**, *Beijing University of Posts and Telecommunications*
 - *2017-2021*, **Second-Class Scholarship** (GPA 3.7/4.0), *Xidian University*
 
-Experience
+Experiences
 ======
-- *2023/04 - 2023/10*, **Research intern**, Westlake NLP Group, *[Westlake University](https://en.westlake.edu.cn/)*, supervised by Prof. Yue Zhang and Dr. Linyi Yang.
-- *2021/03 - 2021/05*, **Intern**, Consumer BG, *[huawei](http://www.huawei.com.cn/)*, supervised by Mengshu Jia.
+- *2023/04 - 2023/10*, **Research Intern** on Evaluation of Large Language Models, Westlake NLP Group, *[Westlake University](https://en.westlake.edu.cn/)*, supervised by Prof. Yue Zhang and Dr. Linyi Yang.
+- *2021/03 - 2021/05*, **Intern** on Android Camera Embedded Driver Development, Consumer BG, *[huawei](http://www.huawei.com.cn/)*, supervised by Mengshu Jia.
 
 
 
