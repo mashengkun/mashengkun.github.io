@@ -50,6 +50,8 @@ Experiences
 - *2021/03 - 2021/05*, **Intern** on Android Camera Embedded Driver Development, Consumer BG, *[huawei](http://www.huawei.com.cn/)*, supervised by Mengshu Jia.
 
 
+<a href="https://info.flagcounter.com/0wyG"><img src="https://s11.flagcounter.com/count2/0wyG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 <!--
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=bALa26JNgLmkaivAZEk7F5Qk4kVH83z0WAlhEsUq4yM&cl=ffffff&w=a"></script>
