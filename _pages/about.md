@@ -11,7 +11,7 @@ redirect_from:
 I am **Shengkun Ma** (马胜坤), a final-year graduate student in *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)*, China, supervised by Prof. Bo Cheng.
 Previously, I obtained my Bachelor's degree from the School of Computer Science and Technology at *[Xidian University (XDU)](https://www.xidian.edu.cn/)*.
 
-My research interests include **relation extraction**, **prompt learning** and **large language models (LLMs)**.
+My research interests include **relation extraction**, **continual learning** and **large language models (LLMs)**.
 Recently, I am focusing on **open-domain retrieval** and **reasoning** with LLMs.
 This is my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf).
 
