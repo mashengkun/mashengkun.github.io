@@ -46,7 +46,7 @@ Honors
 
 Experiences
 ======
-- *2023/04 - 2023/10*, **Research Intern** on Evaluation of Large Language Models, Westlake NLP Group, *[Westlake University](https://en.westlake.edu.cn/)*, supervised by Prof. Yue Zhang and Dr. Linyi Yang.
+- *2023/04 - 2023/10*, **Research Intern** on Evaluation of Large Language Models, Westlake NLP Group, *[Westlake University](https://en.westlake.edu.cn/)*, supervised by Dr. Linyi Yang and Prof. Yue Zhang.
 - *2021/03 - 2021/05*, **Intern** on Android Camera Embedded Driver Development, Consumer BG, *[huawei](http://www.huawei.com.cn/)*, supervised by Mengshu Jia.
 
 
