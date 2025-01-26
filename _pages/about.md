@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am **Shengkun Ma** (马胜坤), now an intern in *[Knowledge Engineering Group (KGE)](https://keg.cs.tsinghua.edu.cn/)*, *[Tsinghua University](https://www.tsinghua.edu.cn/)*, supervised by Juanzi Li. Before that, I graduated from *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)*, China, supervised by Prof. Bo Cheng.
-Previously, I obtained my Bachelor's degree from the School of Computer Science and Technology at *[Xidian University (XDU)](https://www.xidian.edu.cn/)*.
+I am **Shengkun Ma** (马胜坤), now an intern in *[Knowledge Engineering Group (KGE)](https://keg.cs.tsinghua.edu.cn/)*, *[Tsinghua University](https://www.tsinghua.edu.cn/)*, supervised by Juanzi Li. Before that, I graduated from the School of Computer Science at *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)* with my master'degree, supervised by Prof. Bo Cheng.
+Previously, I obtained my bachelor's degree from the School of Computer Science and Technology at *[Xidian University (XDU)](https://www.xidian.edu.cn/)*.
 
 I am doing some research work about Machine Reading Comprehension (MRC). My general research interests include **Information Extraction**, **Natural Language Understanding** and **Evaluation of Large Language Models**.
 
