@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am **Shengkun Ma** (马胜坤), a final-year graduate student in *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)*, China, supervised by Prof. Bo Cheng.
+I am **Shengkun Ma** (马胜坤), now an intern in *[Knowledge Engineering Group (KGE)](https://keg.cs.tsinghua.edu.cn/)*, *[Tsinghua University](https://www.tsinghua.edu.cn/)*, supervised by Juanzi Li. Before that, I graduated from *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)*, China, supervised by Prof. Bo Cheng.
 Previously, I obtained my Bachelor's degree from the School of Computer Science and Technology at *[Xidian University (XDU)](https://www.xidian.edu.cn/)*.
 
-My research interests include **relation extraction**, **continual learning** and **large language models (LLMs)**.
-Recently, I am focusing on **open-domain retrieval** and **reasoning** with LLMs.
-This is my [CV](https://mashengkun.github.io/files/ShengkunMa_CV.pdf).
+I am doing some research work about Machine Reading Comprehension (MRC). My general research interests include **Information Extraction**, **Natural Language Understanding** and **Evaluation of Large Language Models**.
 
-**I am actively seeking PhD/RA opportunities for 2024/2025 ^_^**
+**I am actively seeking PhD/RA opportunities for 2025 ^_^**.
 
 
-Publications
+Publications and Preprint
 ======
+- **A Comprehensive Benchmark of Machine Reading Comprehension**
+<br />In process.  
 - **Making Pre-trained Language Models Better Continual Few-shot Relation Extractors**
 <br />**Shengkun Ma**, Jiale Han, Yi Liang and Bo Cheng.
 <br />Accepted as *COLING 2024*.  \[[paper](https://arxiv.org/abs/2402.15713)\] \[[code](https://github.com/mashengkun/CPL)\]
@@ -46,7 +46,8 @@ Honors
 
 Experiences
 ======
-- *2023/04 - 2023/10*, **Research Intern** on Evaluation of Large Language Models, Westlake NLP Group, *[Westlake University](https://en.westlake.edu.cn/)*, supervised by Dr. Linyi Yang and Prof. Yue Zhang.
+- *2024/07 - now*, **Research Intern** about Machine Reading Comprehension, Knowledge Engineering Group, *[Tsinghua University](https://en.westlake.edu.cn/)*, supervised by Dr. Hao Peng and Prof. Juanzi Li.
+- *2023/04 - 2023/10*, **Research Intern** about Evaluation of Large Language Models, Zhangyue NLP Group, *[Westlake University](https://en.westlake.edu.cn/)*, supervised by Dr. Linyi Yang and Prof. Yue Zhang.
 - *2021/03 - 2021/05*, **Intern** on Android Camera Embedded Driver Development, Consumer BG, *[huawei](http://www.huawei.com.cn/)*, supervised by Mengshu Jia.
 
 
