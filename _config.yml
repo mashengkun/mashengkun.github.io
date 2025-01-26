@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shengkun Ma"
 title_separator          : "-"
 name                     : &name "Shengkun Ma"
-description              : &description "Academic pages"
+description              : &description "NLP Student"
 url                      : https://mashengkun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mashengkun.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Shengkun Ma"
-  avatar           : "profile.png"
-  bio              : "A graduate student in NLP"
+  avatar           : "msk_profile.jpg"
+  bio              : "An amateur of nlp"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=reH5ELMAAAAJ&hl=zh-CN"
   email            : "mashengkun@bupt.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mashengkun.github.io"
+  github           : "mashengkun" 
+  # github           : "mashengkun" 
   google_plus      :
   keybase          :
   instagram        :
