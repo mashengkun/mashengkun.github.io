@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am **Shengkun Ma** (马胜坤), now an intern in *[Knowledge Engineering Group (KGE)](https://keg.cs.tsinghua.edu.cn/)*, *[Tsinghua University](https://www.tsinghua.edu.cn/)*, supervised by Juanzi Li. Before that, I graduated from the School of Computer Science at *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)* with my master'degree, supervised by Prof. Bo Cheng.
+I am **Shengkun Ma** (马胜坤), now an intern in *[Knowledge Engineering Group (KGE)](https://keg.cs.tsinghua.edu.cn/)*, *[Tsinghua University](https://www.tsinghua.edu.cn/)*, supervised by Prof. Juanzi Li. Before that, I graduated from the School of Computer Science at *[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)* with my master'degree, supervised by Prof. Bo Cheng.
 Previously, I obtained my bachelor's degree from the School of Computer Science and Technology at *[Xidian University (XDU)](https://www.xidian.edu.cn/)*.
 
 I am doing some research work about Machine Reading Comprehension (MRC). My general research interests include **Information Extraction**, **Natural Language Understanding** and **Evaluation of Large Language Models**.
-
-**I am actively seeking PhD/RA opportunities for 2025 ^_^**.
 
 
 Publications and Preprint
 ======
 - **A Comprehensive Benchmark of Machine Reading Comprehension**
-<br />In process.  
+<br />**Shengkun Ma**, Hao Peng, Lei Hou and Juanzi Li.
+<br />Under review. \[[paper](https://arxiv.org/pdf/2503.07144)\] \[[code](https://github.com/THU-KEG/MRCEval)\] 
 - **Making Pre-trained Language Models Better Continual Few-shot Relation Extractors**
 <br />**Shengkun Ma**, Jiale Han, Yi Liang and Bo Cheng.
 <br />Accepted as *COLING 2024*.  \[[paper](https://arxiv.org/abs/2402.15713)\] \[[code](https://github.com/mashengkun/CPL)\]
