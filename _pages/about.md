@@ -16,7 +16,7 @@ I am doing some research work about Machine Reading Comprehension (MRC). My gene
 
 Publications and Preprint
 ======
-- **A Comprehensive Benchmark of Machine Reading Comprehension**
+- **MRCEval: A Comprehensive, Challenging and Accessible Machine Reading Comprehension Benchmark**
 <br />**Shengkun Ma**, Hao Peng, Lei Hou and Juanzi Li.
 <br />Under review. \[[paper](https://arxiv.org/pdf/2503.07144)\] \[[code](https://github.com/THU-KEG/MRCEval)\] 
 - **Making Pre-trained Language Models Better Continual Few-shot Relation Extractors**
